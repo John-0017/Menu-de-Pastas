@@ -1,6 +1,3 @@
-# Menu-de-Pastas
-Clase 25-10-25
-<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -16,7 +13,7 @@ Clase 25-10-25
 <nav class="navbar text-bg-danger p-3">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">
-      <img src="creole-spaghetti.jpg" alt="logo" width="30" height="24" class="d-inline-block align-text-top">
+      <img src="hand-drawn-cartoon-delicious-pasta-illustration_561641-9274.jpg" alt="logo" width="30" height="24" class="d-inline-block align-text-top">
       Menu Ciao Spaghetti
     </a>
   </div>
@@ -28,7 +25,7 @@ Clase 25-10-25
     <div class="container text-center">
   <div class="row row-cols-2">
     <div class="col"><div class="card" style="width: 18rem;">
-  <img src="espaguetis-a-la-bolonesa.jpg" class="card-img-top" alt="...">
+  <img src="Boloñesa.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Pasta a la Boloñesa</h5>
     <p class="card-text">
@@ -39,7 +36,7 @@ Tradicional pasta italiana servida con una salsa espesa de tomate, carne molida,
   </div>
 </div></div>
     <div class="col"><div class="card" style="width: 18rem;">
-  <img src="Skinny-Low-Fat-Chicken-Fettucine-Alfredo-3-scaled.jpg" class="card-img-top" alt="...">
+  <img src="Alfredo.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Pasta Alfredo con Pollo
         </h5>
@@ -50,7 +47,7 @@ Tradicional pasta italiana servida con una salsa espesa de tomate, carne molida,
   </div>
 </div></div>
     <div class="col"><div class="card" style="width: 18rem;">
-  <img src="lasa.jpg" class="card-img-top" alt="...">
+  <img src="lasaña.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Lasaña Clásica
 </h5>
